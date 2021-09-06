@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "https://.github.io/csb-tdoi2/static/js/main.d4c5fdaf.chunk.js",
+    "main.js.map": "https://.github.io/csb-tdoi2/static/js/main.d4c5fdaf.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-tdoi2/static/js/runtime-main.929fa780.js",
+    "runtime-main.js.map": "https://.github.io/csb-tdoi2/static/js/runtime-main.929fa780.js.map",
+    "static/css/2.4f9f0b12.chunk.css": "https://.github.io/csb-tdoi2/static/css/2.4f9f0b12.chunk.css",
+    "static/js/2.e175c4f4.chunk.js": "https://.github.io/csb-tdoi2/static/js/2.e175c4f4.chunk.js",
+    "static/js/2.e175c4f4.chunk.js.map": "https://.github.io/csb-tdoi2/static/js/2.e175c4f4.chunk.js.map",
+    "index.html": "https://.github.io/csb-tdoi2/index.html",
+    "precache-manifest.5486714f49633074fd6419e3a292f42e.js": "https://.github.io/csb-tdoi2/precache-manifest.5486714f49633074fd6419e3a292f42e.js",
+    "service-worker.js": "https://.github.io/csb-tdoi2/service-worker.js",
+    "static/css/2.4f9f0b12.chunk.css.map": "https://.github.io/csb-tdoi2/static/css/2.4f9f0b12.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.929fa780.js",
+    "static/css/2.4f9f0b12.chunk.css",
+    "static/js/2.e175c4f4.chunk.js",
+    "static/js/main.d4c5fdaf.chunk.js"
+  ]
+}
